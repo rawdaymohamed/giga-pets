@@ -32,6 +32,7 @@ Giga Pets is a pet appointment system that allows user to perform the CRUD opera
 ![](./giga%20pets%20-%20login.png)
 ![](./giga%20pets%20-%20profile.png)
 ![](./giga%20pets%20-%20my%20appointments.png)
+
 This project has the following features:
 
 - User Registeration
