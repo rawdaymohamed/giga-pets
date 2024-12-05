@@ -55,7 +55,7 @@ npm -v
 1. Clone the project
 
 ```
-git clone https://github.com/rawda-dev/giga-pets
+git clone https://github.com/rawdaymohamed/giga-pets
 
 ```
 
